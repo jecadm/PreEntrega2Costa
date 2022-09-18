@@ -1,7 +1,7 @@
 # PreEntrega2Costa
-### Segunda pre-entrega - de tu Proyecto final
+## Segunda pre-entrega - de tu Proyecto final
 
-# Consigna
+## Consigna
 
 1)Dos páginas a elección
 
@@ -9,9 +9,9 @@
 
 3)Agregando animaciones. Para generar un diseño responsive utilizar el Grid system de Bootstrap. 
 
-## La entrega se deberá cargar a un repositorio de GitHub público.
+4)La entrega se deberá cargar a un repositorio de GitHub público.
 
-# Objetivos
+## Objetivos
 
 1a)Realizar una estructura avanzada de la web.
 
@@ -19,10 +19,8 @@
 
 3a)Generar la carga en un repositorio en GitHub.
 
-### 1a) Estructura avanzada de la web
-
+# Estructura avanzada de la web
 ## Consigna
-
 Realizar una estructura del HTML prolija, limpia, fácil de leer.
 Agregar elementos HTML según la necesidad de armar contenedores o elementos web determinados, basándose en el framework elegido y la documentación del mismo. 
 
@@ -34,7 +32,7 @@ Agregar elementos HTML según la necesidad de armar contenedores o elementos web
 ### Páginas: 
 todas las páginas deben tener el contenido estructurado y el estilo linkeado. Agregar las diferentes librerías de            JavaScript y CSS pertinentes al framework.
 
-### Estilo avanzado de la web
+# Estilo avanzado de la web
 
 ## Consigna
 
@@ -52,7 +50,7 @@ no todos los elementos del framework van a tener una estética que condice con e
 ### Estructura de la web:
 uso de etiquetas no solo para armar contenido, sino para armar los elementos que van a conformar el layout de la web, los contenedores, etc.
 
-## Repositorio en GitHub
+# Repositorio en GitHub
 
 ## Consigna
 
